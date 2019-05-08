@@ -1,6 +1,9 @@
 '''
 Tuck Vollom
-Chapeter 5 Exercise 2
+This program calculates the pay of the employee.
+It has capabilities of:
+1) Calculate pay including overtime
+2) Give the user a unique ID number for records
 '''
 from random import randint
 
