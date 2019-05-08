@@ -100,13 +100,13 @@ Your Amazon gross pay is 5700.0 dollars.
 
 Test3
 Enter your company name: Facebook
-Enter hours worked: 100
-Enter the rate: 55
+Enter hours worked: 60
+Enter the rate: 99
 Company: Facebook
-hours: 100.0
-Rate: 55.0
+hours: 60.0
+Rate: 99.0
 **********************************************
-Your document numer is:  1588
-Your Google gross pay is 7150.0 dollars.
+Your document numer is:  1780
+Your Facebook gross pay is 6930.0 dollars.
 
 '''
